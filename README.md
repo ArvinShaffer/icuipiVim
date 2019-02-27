@@ -1,0 +1,2 @@
+# icuipiVim
+my vim study
